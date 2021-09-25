@@ -20,49 +20,7 @@ a:hover {
   font-family: "serif";
 }
 
-.logo {
-  background: White;
-  width: "100%";
-  height: 150px;
-}
 
-.e1 {
-  text-align: center;
-  line-height: 75px;
-  font-size: 35px;
-  color: rgb(170, 0, 0);
-}
-
-.e2 {
-  text-align: center;
-  line-height: 0px;
-  font-size: 20px;
-  font-family: Arial, serif;
-  color: rgb(0, 0, 0);
-}
-
-.e3 {
-  text-align: center;
-  line-height: 0px;
-  font-size: 15px;
-  font-family: Arial, serif;
-  color: black;
-}
-
-.e4 {
-  margin-left: 100px;
-  margin-top: -125px;
-}
-
-.e5 {
-  margin-left: 1100px;
-  margin-top: -65px;
-}
-
-.e6 {
-  margin-left: 1300px;
-  margin-top: -85px;
-}
 
 li:hover {
   background-color: white;
