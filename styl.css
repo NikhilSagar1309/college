@@ -5,9 +5,7 @@
   line-height: 30px;
   text-align: center;
 }
-div.navi{
-  margin-top: 20%
-}
+
 
 a:hover {
   text-decoration: underline;
@@ -20,8 +18,17 @@ a:hover {
   font-family: "serif";
 }
 
-
-
+.head{
+  margin-left: 12%;
+display: inline-block;
+}
+.hea{
+  margin-left: 1%;
+display: inline-block;
+}
+.Uni{
+  margin-top: -2.5%;
+}
 li:hover {
   background-color: white;
   color: Black;
