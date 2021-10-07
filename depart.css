@@ -1,0 +1,107 @@
+.bl {
+  width: 100%;
+  height: 100%;
+  padding: 5px 10px;
+  padding-bottom: 2%;
+  display: inline-flex;
+}
+
+.box1 {
+  width: 25%;
+  height: 50%;
+  background: white;
+  border-radius: 2%;
+  border-style: solid;
+  border-color: rgb(200, 0, 0);
+  border-width: 2px;
+  margin-left: 10%;
+  margin-top: 2%;
+  padding: 0.5%;
+}
+
+.box2 {
+  width: 55%;
+  height: 100%;
+  background: white;
+  border-style: solid;
+  border-color: rgb(200,0,0);
+  border-width: 2px;
+  margin-left: 2%;
+  margin-top: 2%;
+  padding: 0.5%;
+}
+
+.mathhead {
+  width: 100%;
+  height: 15%;
+  border: solid;
+  border-color: rgb(200, 0, 0);
+  border-width: 2%;
+  border-radius: 2%;
+  color: white;
+  background-color: rgb(200, 0, 0);
+}
+
+.mathele {
+  width: 100%;
+  height: 15%;
+  color: black;
+  padding: 2.5%;
+  background-color:rgb(211,211,211);
+  text-height: 50px;
+}
+.about{
+  width: 100%;
+  height: 9%;
+  color: rgb(200,0,0);
+  padding: 1%;
+  background-color:rgb(211,211,211);
+}
+.abouttext{
+  padding-left:2.5%;
+  padding-right: 2.5%;
+  padding-top: 1%;
+}
+.image{
+  display: inline-flex;
+}
+.imageelement1{
+  margin-left:5%;
+}
+.imageelement2{
+  margin-left:11%;
+}
+.teachername{
+  margin-top: 5%;
+  margin-left: -9%;
+  font-size: 14px;
+}
+.jyotiimage{
+  margin-left: 13%;
+  margin-top: 2%;
+}
+.rakeshimage{
+  margin-top: 2%;
+}
+.arvindimage{
+  margin-left: 14%;
+}
+.sundarimage{
+  margin-left: 7%;
+}
+.sandeepimage{
+  margin-top: 5%;
+}
+.brijimage{
+  margin-left: 14%;
+}
+.mahendraimage{
+  margin-top: 4%;
+}
+.amitimage{
+  margin-left: 11.5%;
+}
+.rahulimage{
+  margin-left: 10%;
+  margin-top: 2%;
+}
