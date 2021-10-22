@@ -61,6 +61,7 @@
   padding-left:2.5%;
   padding-right: 2.5%;
   padding-top: 1%;
+  text-align: justify;
 }
 .image{
   display: inline-flex;
